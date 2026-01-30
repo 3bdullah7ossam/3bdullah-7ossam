@@ -48,7 +48,7 @@ elif Qustion=="yes":
             Back=Dect[i]*17%50
             if Back in inve_Dect:
                 Orgnal_text+=inve_Dect[Back]
-            print(f"Orgnal text is {Orgnal_text}")
+    print(f"Orgnal text is {Orgnal_text}")
 
 else:
      print("please enter yes or no only ")
